@@ -1,0 +1,900 @@
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=arraial+do+cabo%2Cbr
+"Processing Record 1 of 518 | city name: arraial do cabo | city id: 3471451"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hvide+sande%2Cdk
+"Processing Record 2 of 518 | city name: hvide sande | city id: 2619537"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bluff%2Cnz
+"Processing Record 4 of 518 | city name: bluff | city id: 2206939"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=half+moon+bay%2Cus
+"Processing Record 5 of 518 | city name: half moon bay | city id: 5354943"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=qaanaaq%2Cgl
+"Processing Record 6 of 518 | city name: qaanaaq | city id: 3831208"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=punta+arenas%2Ccl
+"Processing Record 8 of 518 | city name: punta arenas | city id: 3874787"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lavrentiya%2Cru
+"Processing Record 9 of 518 | city name: lavrentiya | city id: 4031637"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=torbay%2Cca
+"Processing Record 10 of 518 | city name: torbay | city id: 6167817"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=carnarvon%2Cau
+"Processing Record 12 of 518 | city name: carnarvon | city id: 2074865"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nyurba%2Cru
+"Processing Record 14 of 518 | city name: nyurba | city id: 2018735"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kruisfontein%2Cza
+"Processing Record 15 of 518 | city name: kruisfontein | city id: 986717"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rawson%2Car
+"Processing Record 16 of 518 | city name: rawson | city id: 3839307"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bredasdorp%2Cza
+"Processing Record 17 of 518 | city name: bredasdorp | city id: 1015776"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hami%2Ccn
+"Processing Record 18 of 518 | city name: hami | city id: 1529484"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=adre%2Ctd
+"Processing Record 19 of 518 | city name: adre | city id: 245669"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ushuaia%2Car
+"Processing Record 20 of 518 | city name: ushuaia | city id: 3833367"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=senanga%2Czm
+"Processing Record 21 of 518 | city name: senanga | city id: 898947"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=busselton%2Cau
+"Processing Record 22 of 518 | city name: busselton | city id: 2075265"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bandarbeyla%2Cso
+"Processing Record 23 of 518 | city name: bandarbeyla | city id: 64814"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=albany%2Cau
+"Processing Record 24 of 518 | city name: albany | city id: 2077963"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chuy%2Cuy
+"Processing Record 25 of 518 | city name: chuy | city id: 3443061"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=atuona%2Cpf
+"Processing Record 26 of 518 | city name: atuona | city id: 4020109"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=upernavik%2Cgl
+"Processing Record 27 of 518 | city name: upernavik | city id: 3418910"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kodiak%2Cus
+"Processing Record 28 of 518 | city name: kodiak | city id: 4407665"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rikitea%2Cpf
+"Processing Record 29 of 518 | city name: rikitea | city id: 4030556"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chokurdakh%2Cru
+"Processing Record 30 of 518 | city name: chokurdakh | city id: 2126123"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tocopilla%2Ccl
+"Processing Record 31 of 518 | city name: tocopilla | city id: 3869716"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=andros+town%2Cbs
+"Processing Record 33 of 518 | city name: andros town | city id: 3572906"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=namibe%2Cao
+"Processing Record 34 of 518 | city name: namibe | city id: 3347019"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kieta%2Cpg
+"Processing Record 35 of 518 | city name: kieta | city id: 2094027"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rudbar%2Caf
+"Processing Record 36 of 518 | city name: rudbar | city id: 1128239"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=barrow%2Cus
+"Processing Record 38 of 518 | city name: barrow | city id: 4252975"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kapaa%2Cus
+"Processing Record 39 of 518 | city name: kapaa | city id: 5848280"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dhidhdhoo%2Cmv
+"Processing Record 41 of 518 | city name: dhidhdhoo | city id: 1337612"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sortland%2Cno
+"Processing Record 42 of 518 | city name: sortland | city id: 3137405"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hermanus%2Cza
+"Processing Record 43 of 518 | city name: hermanus | city id: 3366880"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=newcastle%2Cza
+"Processing Record 44 of 518 | city name: newcastle | city id: 971421"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tura%2Cru
+"Processing Record 45 of 518 | city name: tura | city id: 2014833"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=clarence+town%2Cbs
+"Processing Record 46 of 518 | city name: clarence town | city id: 3572640"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bandundu%2Ccd
+"Processing Record 47 of 518 | city name: bandundu | city id: 2317397"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=puerto+ayora%2Cec
+"Processing Record 48 of 518 | city name: puerto ayora | city id: 3652764"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+alfred%2Cza
+"Processing Record 49 of 518 | city name: port alfred | city id: 964432"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+elizabeth%2Cza
+"Processing Record 50 of 518 | city name: port elizabeth | city id: 964420"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=avarua%2Cck
+"Processing Record 51 of 518 | city name: avarua | city id: 4035715"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=constitucion%2Cmx
+"Processing Record 52 of 518 | city name: constitucion | city id: 4011743"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dikson%2Cru
+"Processing Record 53 of 518 | city name: dikson | city id: 1507390"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=raudeberg%2Cno
+"Processing Record 54 of 518 | city name: raudeberg | city id: 3146487"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kita%2Cml
+"Processing Record 55 of 518 | city name: kita | city id: 2455216"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saint-louis%2Cre
+"Processing Record 56 of 518 | city name: saint-louis | city id: 6690298"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kendari%2Cid
+"Processing Record 59 of 518 | city name: kendari | city id: 1640344"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=khatanga%2Cru
+"Processing Record 60 of 518 | city name: khatanga | city id: 2022572"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=salalah%2Com
+"Processing Record 61 of 518 | city name: salalah | city id: 286621"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=esperance%2Cau
+"Processing Record 62 of 518 | city name: esperance | city id: 2071860"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ewa+beach%2Cus
+"Processing Record 63 of 518 | city name: ewa beach | city id: 5855051"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chulman%2Cru
+"Processing Record 64 of 518 | city name: chulman | city id: 2025261"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saint+george%2Cbm
+"Processing Record 65 of 518 | city name: saint george | city id: 3573061"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cape+town%2Cza
+"Processing Record 66 of 518 | city name: cape town | city id: 3369157"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=caravelas%2Cbr
+"Processing Record 67 of 518 | city name: caravelas | city id: 3466980"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=purificacion%2Cmx
+"Processing Record 69 of 518 | city name: purificacion | city id: 3991246"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=keetmanshoop%2Cna
+"Processing Record 70 of 518 | city name: keetmanshoop | city id: 3356264"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bambous+virieux%2Cmu
+"Processing Record 71 of 518 | city name: bambous virieux | city id: 1106677"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kizukuri%2Cjp
+"Processing Record 72 of 518 | city name: kizukuri | city id: 2129513"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=peniche%2Cpt
+"Processing Record 74 of 518 | city name: peniche | city id: 2264923"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=anadyr%2Cru
+"Processing Record 75 of 518 | city name: anadyr | city id: 2127202"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=zyryanovsk%2Ckz
+"Processing Record 76 of 518 | city name: zyryanovsk | city id: 1516438"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=victoria%2Csc
+"Processing Record 77 of 518 | city name: victoria | city id: 241131"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=juneau%2Cus
+"Processing Record 78 of 518 | city name: juneau | city id: 5554072"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=souillac%2Cmu
+"Processing Record 80 of 518 | city name: souillac | city id: 933995"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=new+norfolk%2Cau
+"Processing Record 81 of 518 | city name: new norfolk | city id: 2155415"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tarauaca%2Cbr
+"Processing Record 82 of 518 | city name: tarauaca | city id: 3661980"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=caconda%2Cao
+"Processing Record 83 of 518 | city name: caconda | city id: 3351380"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cherskiy%2Cru
+"Processing Record 84 of 518 | city name: cherskiy | city id: 2126199"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=terney%2Cru
+"Processing Record 85 of 518 | city name: terney | city id: 2015352"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chimbarongo%2Ccl
+"Processing Record 88 of 518 | city name: chimbarongo | city id: 3895061"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lerwick%2Cgb
+"Processing Record 89 of 518 | city name: lerwick | city id: 2644605"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sangar%2Cru
+"Processing Record 90 of 518 | city name: sangar | city id: 2017215"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=butaritari%2Cki
+"Processing Record 91 of 518 | city name: butaritari | city id: 2110227"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=orlovka%2Cru
+"Processing Record 92 of 518 | city name: orlovka | city id: 493997"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=yellowknife%2Cca
+"Processing Record 93 of 518 | city name: yellowknife | city id: 6185377"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=alofi%2Cnu
+"Processing Record 95 of 518 | city name: alofi | city id: 4036284"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=verkhnyaya+inta%2Cru
+"Processing Record 96 of 518 | city name: verkhnyaya inta | city id: 1487332"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=paamiut%2Cgl
+"Processing Record 97 of 518 | city name: paamiut | city id: 3421193"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sao+filipe%2Ccv
+"Processing Record 99 of 518 | city name: sao filipe | city id: 3374210"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ilulissat%2Cgl
+"Processing Record 100 of 518 | city name: ilulissat | city id: 3423146"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=acri%2Cit
+"Processing Record 101 of 518 | city name: acri | city id: 2525772"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cidreira%2Cbr
+"Processing Record 103 of 518 | city name: cidreira | city id: 3466165"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bilibino%2Cru
+"Processing Record 105 of 518 | city name: bilibino | city id: 2126682"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=norman+wells%2Cca
+"Processing Record 106 of 518 | city name: norman wells | city id: 6089245"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saint-philippe%2Cre
+"Processing Record 107 of 518 | city name: saint-philippe | city id: 935215"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=krasnyy+chikoy%2Cru
+"Processing Record 108 of 518 | city name: krasnyy chikoy | city id: 2012349"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=fortuna%2Cus
+"Processing Record 109 of 518 | city name: fortuna | city id: 5563839"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=castro%2Ccl
+"Processing Record 111 of 518 | city name: castro | city id: 3896218"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nanortalik%2Cgl
+"Processing Record 113 of 518 | city name: nanortalik | city id: 3421765"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=stokmarknes%2Cno
+"Processing Record 114 of 518 | city name: stokmarknes | city id: 3136690"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vaini%2Cto
+"Processing Record 116 of 518 | city name: vaini | city id: 4032243"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lusambo%2Ccd
+"Processing Record 117 of 518 | city name: lusambo | city id: 210379"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=karaman%2Ctr
+"Processing Record 118 of 518 | city name: karaman | city id: 309527"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=yar-sale%2Cru
+"Processing Record 119 of 518 | city name: yar-sale | city id: 1486321"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+ramon%2Cbo
+"Processing Record 120 of 518 | city name: san ramon | city id: 3905088"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=klaksvik%2Cfo
+"Processing Record 121 of 518 | city name: klaksvik | city id: 2618795"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kitovo%2Cru
+"Processing Record 122 of 518 | city name: kitovo | city id: 548044"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=morondava%2Cmg
+"Processing Record 124 of 518 | city name: morondava | city id: 1058381"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saldanha%2Cza
+"Processing Record 125 of 518 | city name: saldanha | city id: 3361934"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dzaoudzi%2Cyt
+"Processing Record 126 of 518 | city name: dzaoudzi | city id: 921900"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hithadhoo%2Cmv
+"Processing Record 127 of 518 | city name: hithadhoo | city id: 1282256"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+juan%2Car
+"Processing Record 128 of 518 | city name: san juan | city id: 3837213"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ponta+do+sol%2Ccv
+"Processing Record 129 of 518 | city name: ponta do sol | city id: 3374346"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lagoa%2Cpt
+"Processing Record 130 of 518 | city name: lagoa | city id: 2267254"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hasaki%2Cjp
+"Processing Record 131 of 518 | city name: hasaki | city id: 2112802"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hamilton%2Cbm
+"Processing Record 134 of 518 | city name: hamilton | city id: 3573197"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tochio%2Cjp
+"Processing Record 135 of 518 | city name: tochio | city id: 1850307"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kamennogorsk%2Cru
+"Processing Record 136 of 518 | city name: kamennogorsk | city id: 553518"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kavaratti%2Cin
+"Processing Record 137 of 518 | city name: kavaratti | city id: 1267390"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vermilion%2Cca
+"Processing Record 138 of 518 | city name: vermilion | city id: 6173801"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=leningradskiy%2Cru
+"Processing Record 139 of 518 | city name: leningradskiy | city id: 2123814"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kamiiso%2Cjp
+"Processing Record 140 of 518 | city name: kamiiso | city id: 2129766"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=geraldton%2Cau
+"Processing Record 141 of 518 | city name: geraldton | city id: 2070998"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kaitangata%2Cnz
+"Processing Record 142 of 518 | city name: kaitangata | city id: 2208248"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nouadhibou%2Cmr
+"Processing Record 143 of 518 | city name: nouadhibou | city id: 2377457"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=yulara%2Cau
+"Processing Record 144 of 518 | city name: yulara | city id: 6355222"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mar+del+plata%2Car
+"Processing Record 145 of 518 | city name: mar del plata | city id: 3863379"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=birao%2Ccf
+"Processing Record 146 of 518 | city name: birao | city id: 240210"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+blair%2Cin
+"Processing Record 147 of 518 | city name: port blair | city id: 1259385"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=albanel%2Cca
+"Processing Record 148 of 518 | city name: albanel | city id: 5883074"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vostok%2Cru
+"Processing Record 149 of 518 | city name: vostok | city id: 2013279"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=taldan%2Cru
+"Processing Record 151 of 518 | city name: taldan | city id: 2015646"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=longyearbyen%2Csj
+"Processing Record 152 of 518 | city name: longyearbyen | city id: 2729907"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=assare%2Cbr
+"Processing Record 154 of 518 | city name: assare | city id: 3407010"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dunedin%2Cnz
+"Processing Record 155 of 518 | city name: dunedin | city id: 2191562"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=goulburn%2Cau
+"Processing Record 156 of 518 | city name: goulburn | city id: 2164837"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lompoc%2Cus
+"Processing Record 157 of 518 | city name: lompoc | city id: 5367788"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=arua%2Cug
+"Processing Record 158 of 518 | city name: arua | city id: 235039"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=marsabit%2Cke
+"Processing Record 159 of 518 | city name: marsabit | city id: 187585"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bethel%2Cus
+"Processing Record 160 of 518 | city name: bethel | city id: 5880568"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ekhabi%2Cru
+"Processing Record 161 of 518 | city name: ekhabi | city id: 2122614"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tigil%2Cru
+"Processing Record 162 of 518 | city name: tigil | city id: 2120612"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=gimbi%2Cet
+"Processing Record 163 of 518 | city name: gimbi | city id: 335733"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hilo%2Cus
+"Processing Record 164 of 518 | city name: hilo | city id: 5855927"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=talcahuano%2Ccl
+"Processing Record 165 of 518 | city name: talcahuano | city id: 3870282"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=east+london%2Cza
+"Processing Record 167 of 518 | city name: east london | city id: 1006984"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tuatapere%2Cnz
+"Processing Record 168 of 518 | city name: tuatapere | city id: 2180815"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=talnakh%2Cru
+"Processing Record 169 of 518 | city name: talnakh | city id: 1490256"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=norwich%2Cgb
+"Processing Record 170 of 518 | city name: norwich | city id: 2641181"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bilma%2Cne
+"Processing Record 172 of 518 | city name: bilma | city id: 2446796"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=aljezur%2Cpt
+"Processing Record 175 of 518 | city name: aljezur | city id: 2271968"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lebu%2Ccl
+"Processing Record 176 of 518 | city name: lebu | city id: 3883457"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nanakuli%2Cus
+"Processing Record 177 of 518 | city name: nanakuli | city id: 5851349"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kampli%2Cin
+"Processing Record 179 of 518 | city name: kampli | city id: 1268214"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kaeo%2Cnz
+"Processing Record 180 of 518 | city name: kaeo | city id: 2189343"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=halkirk%2Cgb
+"Processing Record 181 of 518 | city name: halkirk | city id: 2635881"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dongli%2Ccn
+"Processing Record 182 of 518 | city name: dongli | city id: 1793910"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+said%2Ceg
+"Processing Record 183 of 518 | city name: port said | city id: 360923"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+patricio%2Cmx
+"Processing Record 184 of 518 | city name: san patricio | city id: 3985168"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pevek%2Cru
+"Processing Record 185 of 518 | city name: pevek | city id: 2122090"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nizhneangarsk%2Cru
+"Processing Record 186 of 518 | city name: nizhneangarsk | city id: 2019199"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=georgetown%2Csh
+"Processing Record 187 of 518 | city name: georgetown | city id: 2411397"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sobolevo%2Cru
+"Processing Record 188 of 518 | city name: sobolevo | city id: 525426"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=arlit%2Cne
+"Processing Record 189 of 518 | city name: arlit | city id: 2447513"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vila+velha%2Cbr
+"Processing Record 190 of 518 | city name: vila velha | city id: 6320062"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=porvoo%2Cfi
+"Processing Record 191 of 518 | city name: porvoo | city id: 660562"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=whitefish%2Cus
+"Processing Record 192 of 518 | city name: whitefish | city id: 5686121"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=komsomolskiy%2Cru
+"Processing Record 193 of 518 | city name: komsomolskiy | city id: 1486910"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=edson%2Cca
+"Processing Record 194 of 518 | city name: edson | city id: 5946820"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tasiilaq%2Cgl
+"Processing Record 196 of 518 | city name: tasiilaq | city id: 3424607"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sanford%2Cus
+"Processing Record 197 of 518 | city name: sanford | city id: 4172086"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=thompson%2Cca
+"Processing Record 198 of 518 | city name: thompson | city id: 6165406"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=buraydah%2Csa
+"Processing Record 199 of 518 | city name: buraydah | city id: 107304"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sambava%2Cmg
+"Processing Record 200 of 518 | city name: sambava | city id: 1056899"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=clyde+river%2Cca
+"Processing Record 201 of 518 | city name: clyde river | city id: 5924351"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pacific+grove%2Cus
+"Processing Record 202 of 518 | city name: pacific grove | city id: 5380437"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=santiago%2Cpe
+"Processing Record 203 of 518 | city name: santiago | city id: 3929051"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nizhniy+kuranakh%2Cru
+"Processing Record 204 of 518 | city name: nizhniy kuranakh | city id: 2019135"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=belaya+gora%2Cru
+"Processing Record 205 of 518 | city name: belaya gora | city id: 2126785"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pathein%2Cmm
+"Processing Record 206 of 518 | city name: pathein | city id: 1328421"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hervey+bay%2Cau
+"Processing Record 207 of 518 | city name: hervey bay | city id: 2146219"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=skibbereen%2Cie
+"Processing Record 209 of 518 | city name: skibbereen | city id: 2961459"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kidal%2Cml
+"Processing Record 210 of 518 | city name: kidal | city id: 2455290"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sitka%2Cus
+"Processing Record 211 of 518 | city name: sitka | city id: 4267710"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=celestun%2Cmx
+"Processing Record 212 of 518 | city name: celestun | city id: 3531368"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dangriga%2Cbz
+"Processing Record 213 of 518 | city name: dangriga | city id: 3582228"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=polovinnoye%2Cru
+"Processing Record 214 of 518 | city name: polovinnoye | city id: 1494523"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hualmay%2Cpe
+"Processing Record 215 of 518 | city name: hualmay | city id: 3939761"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=quatre+cocos%2Cmu
+"Processing Record 216 of 518 | city name: quatre cocos | city id: 1106643"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=aksu%2Ccn
+"Processing Record 217 of 518 | city name: aksu | city id: 1529660"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mackay%2Cau
+"Processing Record 218 of 518 | city name: mackay | city id: 2159220"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+andres%2Cco
+"Processing Record 219 of 518 | city name: san andres | city id: 7522928"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tuktoyaktuk%2Cca
+"Processing Record 220 of 518 | city name: tuktoyaktuk | city id: 6170031"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tezu%2Cin
+"Processing Record 222 of 518 | city name: tezu | city id: 1254709"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rio+gallegos%2Car
+"Processing Record 223 of 518 | city name: rio gallegos | city id: 3838859"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=verkhoyansk%2Cru
+"Processing Record 224 of 518 | city name: verkhoyansk | city id: 2013465"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=beringovskiy%2Cru
+"Processing Record 225 of 518 | city name: beringovskiy | city id: 2126710"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=garner%2Cus
+"Processing Record 227 of 518 | city name: garner | city id: 4467657"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=camacha%2Cpt
+"Processing Record 228 of 518 | city name: camacha | city id: 2270385"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vao%2Cnc
+"Processing Record 229 of 518 | city name: vao | city id: 2137773"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mahendranagar%2Cnp
+"Processing Record 230 of 518 | city name: mahendranagar | city id: 1283095"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=california+city%2Cus
+"Processing Record 231 of 518 | city name: california city | city id: 5332748"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=karratha%2Cau
+"Processing Record 232 of 518 | city name: karratha | city id: 6620339"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kavieng%2Cpg
+"Processing Record 233 of 518 | city name: kavieng | city id: 2094342"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hay+river%2Cca
+"Processing Record 234 of 518 | city name: hay river | city id: 5972762"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=yamada%2Cjp
+"Processing Record 235 of 518 | city name: yamada | city id: 1849876"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=jiuquan%2Ccn
+"Processing Record 236 of 518 | city name: jiuquan | city id: 1280957"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=belgrade%2Cus
+"Processing Record 237 of 518 | city name: belgrade | city id: 5639364"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=marfino%2Cru
+"Processing Record 238 of 518 | city name: marfino | city id: 503977"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hobart%2Cau
+"Processing Record 239 of 518 | city name: hobart | city id: 2163355"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=aklavik%2Cca
+"Processing Record 241 of 518 | city name: aklavik | city id: 5882953"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=shingu%2Cjp
+"Processing Record 242 of 518 | city name: shingu | city id: 1847947"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tongliao%2Ccn
+"Processing Record 243 of 518 | city name: tongliao | city id: 2034400"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sindor%2Cru
+"Processing Record 244 of 518 | city name: sindor | city id: 492860"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pangnirtung%2Cca
+"Processing Record 245 of 518 | city name: pangnirtung | city id: 6096551"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chipinge%2Czw
+"Processing Record 246 of 518 | city name: chipinge | city id: 893549"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=colquechaca%2Cbo
+"Processing Record 247 of 518 | city name: colquechaca | city id: 3919720"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=morant+bay%2Cjm
+"Processing Record 248 of 518 | city name: morant bay | city id: 3489440"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saskylakh%2Cru
+"Processing Record 249 of 518 | city name: saskylakh | city id: 2017155"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=college%2Cus
+"Processing Record 251 of 518 | city name: college | city id: 5859699"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=biltine%2Ctd
+"Processing Record 252 of 518 | city name: biltine | city id: 244878"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=umba%2Cru
+"Processing Record 253 of 518 | city name: umba | city id: 479071"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tosya%2Ctr
+"Processing Record 254 of 518 | city name: tosya | city id: 738662"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=taybad%2Cir
+"Processing Record 255 of 518 | city name: taybad | city id: 1159384"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ayorou%2Cne
+"Processing Record 256 of 518 | city name: ayorou | city id: 2447416"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=provideniya%2Cru
+"Processing Record 257 of 518 | city name: provideniya | city id: 4031574"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kolondieba%2Cml
+"Processing Record 258 of 518 | city name: kolondieba | city id: 2454934"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=berlevag%2Cno
+"Processing Record 259 of 518 | city name: berlevag | city id: 780687"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=haines+junction%2Cca
+"Processing Record 260 of 518 | city name: haines junction | city id: 5969025"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=jamestown%2Csh
+"Processing Record 262 of 518 | city name: jamestown | city id: 3370903"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=plouzane%2Cfr
+"Processing Record 263 of 518 | city name: plouzane | city id: 2986626"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=broome%2Cau
+"Processing Record 264 of 518 | city name: broome | city id: 2075720"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=shirokiy%2Cru
+"Processing Record 265 of 518 | city name: shirokiy | city id: 512255"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=alice+town%2Cbs
+"Processing Record 266 of 518 | city name: alice town | city id: 3572924"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ugep%2Cng
+"Processing Record 267 of 518 | city name: ugep | city id: 2320831"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sorong%2Cid
+"Processing Record 268 of 518 | city name: sorong | city id: 1626542"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lisse%2Cnl
+"Processing Record 269 of 518 | city name: lisse | city id: 2751547"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=luderitz%2Cna
+"Processing Record 270 of 518 | city name: luderitz | city id: 3355672"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=redondo%2Cpt
+"Processing Record 271 of 518 | city name: redondo | city id: 2264009"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=posse%2Cbr
+"Processing Record 272 of 518 | city name: posse | city id: 3452599"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=khonsa%2Cin
+"Processing Record 273 of 518 | city name: khonsa | city id: 1266668"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=luziania%2Cbr
+"Processing Record 274 of 518 | city name: luziania | city id: 3458329"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=petropavlovsk-kamchatskiy%2Cru
+"Processing Record 275 of 518 | city name: petropavlovsk-kamchatskiy | city id: 2122104"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mareeba%2Cau
+"Processing Record 276 of 518 | city name: mareeba | city id: 2158767"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=havelock%2Cus
+"Processing Record 277 of 518 | city name: havelock | city id: 4470244"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=richards+bay%2Cza
+"Processing Record 278 of 518 | city name: richards bay | city id: 962367"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=padang%2Cid
+"Processing Record 279 of 518 | city name: padang | city id: 1633419"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lorengau%2Cpg
+"Processing Record 280 of 518 | city name: lorengau | city id: 2092164"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rabo+de+peixe%2Cpt
+"Processing Record 281 of 518 | city name: rabo de peixe | city id: 3372745"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=umm+lajj%2Csa
+"Processing Record 282 of 518 | city name: umm lajj | city id: 100926"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ronchi+dei+legionari%2Cit
+"Processing Record 283 of 518 | city name: ronchi dei legionari | city id: 3169015"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=qandala%2Cso
+"Processing Record 284 of 518 | city name: qandala | city id: 53157"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=palimbang%2Cph
+"Processing Record 285 of 518 | city name: palimbang | city id: 1690039"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tilichiki%2Cru
+"Processing Record 286 of 518 | city name: tilichiki | city id: 2120591"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=goure%2Cne
+"Processing Record 287 of 518 | city name: goure | city id: 2444219"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=praya%2Cid
+"Processing Record 288 of 518 | city name: praya | city id: 1630662"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kununurra%2Cau
+"Processing Record 289 of 518 | city name: kununurra | city id: 2068110"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=loa+janan%2Cid
+"Processing Record 290 of 518 | city name: loa janan | city id: 1637510"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=prestea%2Cgh
+"Processing Record 291 of 518 | city name: prestea | city id: 2295840"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kilindoni%2Ctz
+"Processing Record 292 of 518 | city name: kilindoni | city id: 157429"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kumluca%2Ctr
+"Processing Record 293 of 518 | city name: kumluca | city id: 305681"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=inhambane%2Cmz
+"Processing Record 294 of 518 | city name: inhambane | city id: 1045114"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=west+bay%2Cky
+"Processing Record 295 of 518 | city name: west bay | city id: 3580477"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ugoofaaru%2Cmv
+"Processing Record 296 of 518 | city name: ugoofaaru | city id: 1337619"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=okha%2Cin
+"Processing Record 297 of 518 | city name: okha | city id: 1261066"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ribeira+grande%2Cpt
+"Processing Record 299 of 518 | city name: ribeira grande | city id: 3372707"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mushie%2Ccd
+"Processing Record 300 of 518 | city name: mushie | city id: 2312249"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=loja%2Ces
+"Processing Record 301 of 518 | city name: loja | city id: 2514946"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kutum%2Csd
+"Processing Record 303 of 518 | city name: kutum | city id: 371745"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dickinson%2Cus
+"Processing Record 304 of 518 | city name: dickinson | city id: 5688789"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=high+level%2Cca
+"Processing Record 306 of 518 | city name: high level | city id: 5975004"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mount+isa%2Cau
+"Processing Record 307 of 518 | city name: mount isa | city id: 2065594"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=escanaba%2Cus
+"Processing Record 308 of 518 | city name: escanaba | city id: 4992232"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=narsaq%2Cgl
+"Processing Record 309 of 518 | city name: narsaq | city id: 3421719"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nikel%2Cru
+"Processing Record 311 of 518 | city name: nikel | city id: 522260"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=puerto+escondido%2Cmx
+"Processing Record 312 of 518 | city name: puerto escondido | city id: 3520994"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=alta+floresta%2Cbr
+"Processing Record 313 of 518 | city name: alta floresta | city id: 6316343"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=manokwari%2Cid
+"Processing Record 314 of 518 | city name: manokwari | city id: 1636308"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=malkangiri%2Cin
+"Processing Record 315 of 518 | city name: malkangiri | city id: 1264075"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dole%2Cfr
+"Processing Record 316 of 518 | city name: dole | city id: 3021263"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=husavik%2Cis
+"Processing Record 317 of 518 | city name: husavik | city id: 2629833"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cerro+de+pasco%2Cpe
+"Processing Record 318 of 518 | city name: cerro de pasco | city id: 3944797"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=carndonagh%2Cie
+"Processing Record 320 of 518 | city name: carndonagh | city id: 2965761"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vestmannaeyjar%2Cis
+"Processing Record 321 of 518 | city name: vestmannaeyjar | city id: 3412093"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cabo+san+lucas%2Cmx
+"Processing Record 322 of 518 | city name: cabo san lucas | city id: 3985710"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cockburn+town%2Ctc
+"Processing Record 323 of 518 | city name: cockburn town | city id: 3576994"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=faanui%2Cpf
+"Processing Record 324 of 518 | city name: faanui | city id: 4034551"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mahebourg%2Cmu
+"Processing Record 325 of 518 | city name: mahebourg | city id: 934322"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=takapau%2Cnz
+"Processing Record 328 of 518 | city name: takapau | city id: 2181988"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bathsheba%2Cbb
+"Processing Record 329 of 518 | city name: bathsheba | city id: 3374083"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pakxan%2Cla
+"Processing Record 330 of 518 | city name: pakxan | city id: 1655140"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chumikan%2Cru
+"Processing Record 331 of 518 | city name: chumikan | city id: 2025256"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kenai%2Cus
+"Processing Record 332 of 518 | city name: kenai | city id: 5866063"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=plunge%2Clt
+"Processing Record 333 of 518 | city name: plunge | city id: 595689"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=isangel%2Cvu
+"Processing Record 334 of 518 | city name: isangel | city id: 2136825"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+hardy%2Cca
+"Processing Record 335 of 518 | city name: port hardy | city id: 6111862"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=fort+nelson%2Cca
+"Processing Record 336 of 518 | city name: fort nelson | city id: 5955902"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=necochea%2Car
+"Processing Record 337 of 518 | city name: necochea | city id: 3430443"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=porto+novo%2Ccv
+"Processing Record 339 of 518 | city name: porto novo | city id: 3374336"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nikolskoye%2Cru
+"Processing Record 340 of 518 | city name: nikolskoye | city id: 546105"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=samarai%2Cpg
+"Processing Record 342 of 518 | city name: samarai | city id: 2132606"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sur%2Com
+"Processing Record 343 of 518 | city name: sur | city id: 286245"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bull+savanna%2Cjm
+"Processing Record 344 of 518 | city name: bull savanna | city id: 3491161"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=turayf%2Csa
+"Processing Record 345 of 518 | city name: turayf | city id: 101312"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mogadishu%2Cso
+"Processing Record 346 of 518 | city name: mogadishu | city id: 53654"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lazaro+cardenas%2Cmx
+"Processing Record 347 of 518 | city name: lazaro cardenas | city id: 3996234"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=apache+junction%2Cus
+"Processing Record 348 of 518 | city name: apache junction | city id: 5551535"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=piacabucu%2Cbr
+"Processing Record 349 of 518 | city name: piacabucu | city id: 3454005"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pozoblanco%2Ces
+"Processing Record 350 of 518 | city name: pozoblanco | city id: 2512340"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=afyonkarahisar%2Ctr
+"Processing Record 351 of 518 | city name: afyonkarahisar | city id: 325303"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=king+city%2Cus
+"Processing Record 352 of 518 | city name: king city | city id: 5363208"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=halifax%2Cca
+"Processing Record 353 of 518 | city name: halifax | city id: 6324729"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=moerai%2Cpf
+"Processing Record 354 of 518 | city name: moerai | city id: 4034188"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=karasuk%2Cru
+"Processing Record 355 of 518 | city name: karasuk | city id: 1504489"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+macquarie%2Cau
+"Processing Record 356 of 518 | city name: port macquarie | city id: 2152659"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rovinj%2Chr
+"Processing Record 357 of 518 | city name: rovinj | city id: 3191518"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ofaqim%2Cil
+"Processing Record 358 of 518 | city name: ofaqim | city id: 293992"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=keti+bandar%2Cpk
+"Processing Record 359 of 518 | city name: keti bandar | city id: 1174451"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sorland%2Cno
+"Processing Record 361 of 518 | city name: sorland | city id: 3137469"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hilton+head+island%2Cus
+"Processing Record 362 of 518 | city name: hilton head island | city id: 4581833"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=santa+rosa+de+aguan%2Chn
+"Processing Record 363 of 518 | city name: santa rosa de aguan | city id: 3601496"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pinhao%2Cbr
+"Processing Record 364 of 518 | city name: pinhao | city id: 3453777"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=aleksandrov+gay%2Cru
+"Processing Record 365 of 518 | city name: aleksandrov gay | city id: 583345"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kahului%2Cus
+"Processing Record 366 of 518 | city name: kahului | city id: 5847411"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bonfim%2Cbr
+"Processing Record 367 of 518 | city name: bonfim | city id: 3451126"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=wilmington%2Cus
+"Processing Record 368 of 518 | city name: wilmington | city id: 4145381"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=egvekinot%2Cru
+"Processing Record 369 of 518 | city name: egvekinot | city id: 4031742"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chilca%2Cpe
+"Processing Record 370 of 518 | city name: chilca | city id: 3934055"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ambilobe%2Cmg
+"Processing Record 371 of 518 | city name: ambilobe | city id: 1082243"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=poum%2Cnc
+"Processing Record 372 of 518 | city name: poum | city id: 2138555"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=axim%2Cgh
+"Processing Record 373 of 518 | city name: axim | city id: 2303611"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+isidro%2Cni
+"Processing Record 374 of 518 | city name: san isidro | city id: 3616311"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=burns+lake%2Cca
+"Processing Record 375 of 518 | city name: burns lake | city id: 5911745"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=port+hedland%2Cau
+"Processing Record 377 of 518 | city name: port hedland | city id: 2063042"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saint-augustin%2Cca
+"Processing Record 378 of 518 | city name: saint-augustin | city id: 6138501"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=calvinia%2Cza
+"Processing Record 380 of 518 | city name: calvinia | city id: 3369174"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=fukue%2Cjp
+"Processing Record 381 of 518 | city name: fukue | city id: 1848373"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ono%2Cjp
+"Processing Record 382 of 518 | city name: ono | city id: 1854026"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lima%2Cpe
+"Processing Record 383 of 518 | city name: lima | city id: 3936456"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=wharton%2Cus
+"Processing Record 384 of 518 | city name: wharton | city id: 4741325"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=henties+bay%2Cna
+"Processing Record 385 of 518 | city name: henties bay | city id: 3356832"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=svetlogorsk%2Cru
+"Processing Record 386 of 518 | city name: svetlogorsk | city id: 584051"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kinablangan%2Cph
+"Processing Record 388 of 518 | city name: kinablangan | city id: 1708743"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ketchikan%2Cus
+"Processing Record 389 of 518 | city name: ketchikan | city id: 5554428"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tessalit%2Cml
+"Processing Record 391 of 518 | city name: tessalit | city id: 2449893"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=casas+grandes%2Cmx
+"Processing Record 392 of 518 | city name: casas grandes | city id: 4017582"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=merauke%2Cid
+"Processing Record 393 of 518 | city name: merauke | city id: 2082539"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=high+prairie%2Cca
+"Processing Record 394 of 518 | city name: high prairie | city id: 5975034"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sal+rei%2Ccv
+"Processing Record 396 of 518 | city name: sal rei | city id: 3374235"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mgandu%2Ctz
+"Processing Record 397 of 518 | city name: mgandu | city id: 154097"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pujili%2Cec
+"Processing Record 398 of 518 | city name: pujili | city id: 3652684"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=severo-yeniseyskiy%2Cru
+"Processing Record 400 of 518 | city name: severo-yeniseyskiy | city id: 1492566"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sola%2Cvu
+"Processing Record 401 of 518 | city name: sola | city id: 2134814"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=grand+gaube%2Cmu
+"Processing Record 403 of 518 | city name: grand gaube | city id: 934479"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=maningrida%2Cau
+"Processing Record 405 of 518 | city name: maningrida | city id: 2067089"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lakki+marwat%2Cpk
+"Processing Record 406 of 518 | city name: lakki marwat | city id: 1172339"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vardo%2Cno
+"Processing Record 407 of 518 | city name: vardo | city id: 777019"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=zhigansk%2Cru
+"Processing Record 408 of 518 | city name: zhigansk | city id: 2012530"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pochutla%2Cmx
+"Processing Record 409 of 518 | city name: pochutla | city id: 3517970"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=fairbanks%2Cus
+"Processing Record 410 of 518 | city name: fairbanks | city id: 5861897"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=boa+vista%2Cbr
+"Processing Record 411 of 518 | city name: boa vista | city id: 3664980"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=benito+juarez%2Cmx
+"Processing Record 413 of 518 | city name: benito juarez | city id: 3991622"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=klyuchi%2Cru
+"Processing Record 414 of 518 | city name: klyuchi | city id: 1503153"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ravenna%2Cus
+"Processing Record 415 of 518 | city name: ravenna | city id: 5167737"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lagos%2Cng
+"Processing Record 416 of 518 | city name: lagos | city id: 2332459"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=marystown%2Cca
+"Processing Record 417 of 518 | city name: marystown | city id: 6067472"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=zaozerne%2Cua
+"Processing Record 418 of 518 | city name: zaozerne | city id: 702421"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pemberton%2Cca
+"Processing Record 419 of 518 | city name: pemberton | city id: 6100799"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=akureyri%2Cis
+"Processing Record 420 of 518 | city name: akureyri | city id: 2633274"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=aksarka%2Cru
+"Processing Record 421 of 518 | city name: aksarka | city id: 1512019"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tiksi%2Cru
+"Processing Record 422 of 518 | city name: tiksi | city id: 2015306"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bucerias%2Cmx
+"Processing Record 424 of 518 | city name: bucerias | city id: 4016734"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=urazovka%2Cru
+"Processing Record 425 of 518 | city name: urazovka | city id: 478782"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vila+franca+do+campo%2Cpt
+"Processing Record 427 of 518 | city name: vila franca do campo | city id: 3372472"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=saint+andrews%2Cca
+"Processing Record 429 of 518 | city name: saint andrews | city id: 6137411"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vomp%2Cat
+"Processing Record 430 of 518 | city name: vomp | city id: 2762303"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=praia%2Ccv
+"Processing Record 432 of 518 | city name: praia | city id: 3374333"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nola%2Ccf
+"Processing Record 433 of 518 | city name: nola | city id: 2383827"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chupa%2Cru
+"Processing Record 434 of 518 | city name: chupa | city id: 567589"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kiruna%2Cse
+"Processing Record 435 of 518 | city name: kiruna | city id: 605155"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=los+llanos+de+aridane%2Ces
+"Processing Record 436 of 518 | city name: los llanos de aridane | city id: 2514651"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mecca%2Csa
+"Processing Record 437 of 518 | city name: mecca | city id: 104515"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=puerto+madero%2Cmx
+"Processing Record 438 of 518 | city name: puerto madero | city id: 3520989"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=evensk%2Cru
+"Processing Record 439 of 518 | city name: evensk | city id: 2125693"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=iqaluit%2Cca
+"Processing Record 440 of 518 | city name: iqaluit | city id: 5983720"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kayerkan%2Cru
+"Processing Record 441 of 518 | city name: kayerkan | city id: 1497337"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vanimo%2Cpg
+"Processing Record 442 of 518 | city name: vanimo | city id: 2084442"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bagdarin%2Cru
+"Processing Record 443 of 518 | city name: bagdarin | city id: 2027244"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=puerto+suarez%2Cbo
+"Processing Record 444 of 518 | city name: puerto suarez | city id: 3465342"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=diffa%2Cne
+"Processing Record 445 of 518 | city name: diffa | city id: 2445704"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kwekwe%2Czw
+"Processing Record 446 of 518 | city name: kwekwe | city id: 888710"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=seoul%2Ckr
+"Processing Record 447 of 518 | city name: seoul | city id: 1835848"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hun%2Cly
+"Processing Record 448 of 518 | city name: hun | city id: 2216645"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=inuvik%2Cca
+"Processing Record 449 of 518 | city name: inuvik | city id: 5983607"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=chengde%2Ccn
+"Processing Record 450 of 518 | city name: chengde | city id: 2038087"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=neuquen%2Car
+"Processing Record 452 of 518 | city name: neuquen | city id: 3843123"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=tsiroanomandidy%2Cmg
+"Processing Record 453 of 518 | city name: tsiroanomandidy | city id: 1054463"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kisangani%2Ccd
+"Processing Record 454 of 518 | city name: kisangani | city id: 212730"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=cayenne%2Cgf
+"Processing Record 455 of 518 | city name: cayenne | city id: 3382160"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=maceio%2Cbr
+"Processing Record 456 of 518 | city name: maceio | city id: 3395981"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=belmonte%2Cbr
+"Processing Record 457 of 518 | city name: belmonte | city id: 3448454"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=vytegra%2Cru
+"Processing Record 458 of 518 | city name: vytegra | city id: 469960"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=wukari%2Cng
+"Processing Record 459 of 518 | city name: wukari | city id: 2318921"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kaseda%2Cjp
+"Processing Record 460 of 518 | city name: kaseda | city id: 1859964"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=igrim%2Cru
+"Processing Record 461 of 518 | city name: igrim | city id: 1505965"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=inirida%2Cco
+"Processing Record 462 of 518 | city name: inirida | city id: 3671450"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=meulaboh%2Cid
+"Processing Record 463 of 518 | city name: meulaboh | city id: 1214488"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nirasaki%2Cjp
+"Processing Record 464 of 518 | city name: nirasaki | city id: 1855363"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=jining%2Ccn
+"Processing Record 465 of 518 | city name: jining | city id: 1805518"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=leshukonskoye%2Cru
+"Processing Record 466 of 518 | city name: leshukonskoye | city id: 535839"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sterling%2Cus
+"Processing Record 467 of 518 | city name: sterling | city id: 4787534"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=seybaplaya%2Cmx
+"Processing Record 468 of 518 | city name: seybaplaya | city id: 3516685"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mercedes%2Cuy
+"Processing Record 470 of 518 | city name: mercedes | city id: 3441684"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=misratah%2Cly
+"Processing Record 471 of 518 | city name: misratah | city id: 2214846"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=hovd%2Cmn
+"Processing Record 472 of 518 | city name: hovd | city id: 1516048"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nome%2Cus
+"Processing Record 473 of 518 | city name: nome | city id: 4732862"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=guanagazapa%2Cgt
+"Processing Record 474 of 518 | city name: guanagazapa | city id: 3595554"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=praia+da+vitoria%2Cpt
+"Processing Record 475 of 518 | city name: praia da vitoria | city id: 3372760"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pisco%2Cpe
+"Processing Record 477 of 518 | city name: pisco | city id: 3932145"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=coari%2Cbr
+"Processing Record 478 of 518 | city name: coari | city id: 3664539"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=bisira%2Cpa
+"Processing Record 479 of 518 | city name: bisira | city id: 3702269"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=roebourne%2Cau
+"Processing Record 480 of 518 | city name: roebourne | city id: 2062276"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=portland%2Cau
+"Processing Record 481 of 518 | city name: portland | city id: 2152668"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ilam%2Cir
+"Processing Record 482 of 518 | city name: ilam | city id: 130802"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=luena%2Cao
+"Processing Record 483 of 518 | city name: luena | city id: 3347719"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ilek%2Cru
+"Processing Record 484 of 518 | city name: ilek | city id: 557340"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=camrose%2Cca
+"Processing Record 485 of 518 | city name: camrose | city id: 5914653"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=lastoursville%2Cga
+"Processing Record 486 of 518 | city name: lastoursville | city id: 2399870"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=san+rafael%2Car
+"Processing Record 487 of 518 | city name: san rafael | city id: 3836669"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=severnoye%2Cru
+"Processing Record 488 of 518 | city name: severnoye | city id: 496381"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=maloy%2Cno
+"Processing Record 489 of 518 | city name: maloy | city id: 3146487"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ahipara%2Cnz
+"Processing Record 490 of 518 | city name: ahipara | city id: 2194098"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=akdepe%2Ctm
+"Processing Record 491 of 518 | city name: akdepe | city id: 601551"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=walvis+bay%2Cna
+"Processing Record 492 of 518 | city name: walvis bay | city id: 3359638"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=daru%2Cpg
+"Processing Record 493 of 518 | city name: daru | city id: 2098329"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=fatehabad%2Cin
+"Processing Record 494 of 518 | city name: fatehabad | city id: 1271936"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=guerrero+negro%2Cmx
+"Processing Record 496 of 518 | city name: guerrero negro | city id: 4021858"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ikauna%2Cin
+"Processing Record 497 of 518 | city name: ikauna | city id: 1269805"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=la+cruz%2Ccr
+"Processing Record 498 of 518 | city name: la cruz | city id: 3623258"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=carlyle%2Cca
+"Processing Record 499 of 518 | city name: carlyle | city id: 5917262"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kondinskoye%2Cru
+"Processing Record 500 of 518 | city name: kondinskoye | city id: 1502697"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=palmer%2Cus
+"Processing Record 501 of 518 | city name: palmer | city id: 5871146"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pangai%2Cto
+"Processing Record 503 of 518 | city name: pangai | city id: 4032369"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=rundu%2Cna
+"Processing Record 504 of 518 | city name: rundu | city id: 3353383"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=antalaha%2Cmg
+"Processing Record 507 of 518 | city name: antalaha | city id: 1071296"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=usinsk%2Cru
+"Processing Record 508 of 518 | city name: usinsk | city id: 863061"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=ballina%2Cau
+"Processing Record 509 of 518 | city name: ballina | city id: 2177069"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=sibu%2Cmy
+"Processing Record 510 of 518 | city name: sibu | city id: 1735902"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=nalbari%2Cin
+"Processing Record 511 of 518 | city name: nalbari | city id: 1258492"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=alice+springs%2Cau
+"Processing Record 512 of 518 | city name: alice springs | city id: 2077895"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=pontian+kecil%2Cmy
+"Processing Record 513 of 518 | city name: pontian kecil | city id: 1732711"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=mindelo%2Ccv
+"Processing Record 514 of 518 | city name: mindelo | city id: 3374462"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=iskateley%2Cru
+"Processing Record 515 of 518 | city name: iskateley | city id: 866062"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=kalaikunda%2Cin
+"Processing Record 516 of 518 | city name: kalaikunda | city id: 1268504"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=dingle%2Cie
+"Processing Record 517 of 518 | city name: dingle | city id: 2964782"
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=dde58ea7326445702221b6e2dd601be8&q=little+current%2Cca
+"Processing Record 518 of 518 | city name: little current | city id: 6055388"
